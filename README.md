@@ -32,3 +32,4 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS4dMHsRIx6RAfbLNNMOEdCM
 
 ![Alt text](manjaro-1.png)
 ![Alt text](manjaro-2.png)
+![Alt text](manjaro-3.png)
