@@ -30,5 +30,5 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS4dMHsRIx6RAfbLNNMOEdCM
 
 # Examples
 
-![Alt text](artix-1.png)
-![Alt text](artix-2.png)
+![Alt text](manjaro-1.png)
+![Alt text](manjaro-2.png)
